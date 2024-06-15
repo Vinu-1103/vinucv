@@ -58,7 +58,7 @@ p {
 hr {
     border: none;
     background-color: hsl(0, 72%, 65%);
-    height: 1px;
+    height: 1.5px;
 }
 
 h1, h2, h3 {
