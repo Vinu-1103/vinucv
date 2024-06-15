@@ -56,7 +56,7 @@ p {
 
 hr {
     border: none;
-    background-color: lightgrayhsl(0, 0%, 2%);
+    background-color: hsl(0, 72%, 65%);
     height: 1px;
 }
 
